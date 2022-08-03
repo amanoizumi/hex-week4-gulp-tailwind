@@ -797,11 +797,11 @@ select {
 .bg-transparent {
   background-color: transparent;
 }
-.bg-\[url\(\'assets\/images\/home-section4-1-sm\.png\'\)\] {
-  background-image: url('assets/images/home-section4-1-sm.png');
+.bg-\[url\(\'\.\.\/images\/home-section4-1-sm\.png\'\)\] {
+  background-image: url('../images/home-section4-1-sm.png');
 }
-.bg-\[url\(\'assets\/images\/home-section4-2-sm\.png\'\)\] {
-  background-image: url('assets/images/home-section4-2-sm.png');
+.bg-\[url\(\'\.\.\/images\/home-section4-2-sm\.png\'\)\] {
+  background-image: url('../images/home-section4-2-sm.png');
 }
 .bg-\[url\(\'\/assets\/images\/product-header-1\.png\'\)\] {
   background-image: url('/assets/images/product-header-1.png');
@@ -1007,12 +1007,12 @@ select {
     gap: 2rem;
   }
 
-  .md\:bg-\[url\(\'assets\/images\/home-section4-1\.png\'\)\] {
-    background-image: url('assets/images/home-section4-1.png');
+  .md\:bg-\[url\(\'\.\.\/images\/home-section4-1\.png\'\)\] {
+    background-image: url('../images/home-section4-1.png');
   }
 
-  .md\:bg-\[url\(\'assets\/images\/home-section4-2\.png\'\)\] {
-    background-image: url('assets/images/home-section4-2.png');
+  .md\:bg-\[url\(\'\.\.\/images\/home-section4-2\.png\'\)\] {
+    background-image: url('../images/home-section4-2.png');
   }
 
   .md\:py-9 {
